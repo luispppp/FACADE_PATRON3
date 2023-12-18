@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\bin\Debug\net6.0\FACADE_PATRON3.exe
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\bin\Debug\net6.0\FACADE_PATRON3.deps.json
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\bin\Debug\net6.0\FACADE_PATRON3.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\bin\Debug\net6.0\FACADE_PATRON3.dll
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\bin\Debug\net6.0\FACADE_PATRON3.pdb
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\FACADE_PATRON3.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\FACADE_PATRON3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\FACADE_PATRON3.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\FACADE_PATRON3.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\FACADE_PATRON3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\FACADE_PATRON3.dll
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\refint\FACADE_PATRON3.dll
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\FACADE_PATRON3.pdb
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\FACADE_PATRON3.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Escritorio\FACADE_PATRON3\obj\Debug\net6.0\ref\FACADE_PATRON3.dll
